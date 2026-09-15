@@ -6,7 +6,7 @@
 
 #### `$ whoami`
 - **Fields** : full-stack, discord.py
-- **Links** : 🔗 [Project](https://imverycute.xyz) | 🔗 [Contact](https://seong-woo.kro.kr)
+- **Links** : 🔗 [Project](https://imverycute.xyz) | 🔗 [Contact](https://697469.xyz)
 
 #### `$ stack`
 <img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,python,fastapi,sqlite,git&perline=12" />
