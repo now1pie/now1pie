@@ -9,7 +9,7 @@
 - **Links** : 🔗 [Project](https://imverycute.xyz) | 🔗 [Contact](https://seong-woo.kro.kr)
 
 #### `$ stack`
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,python,fastapi,sqlite,git,github,vscode&perline=12" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,html,css,react,python,fastapi,sqlite,git&perline=12" />
 
 ---
 
