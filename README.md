@@ -13,8 +13,6 @@
 
 ---
 
-`ㅎㅎ`
-
 <br>
 
 <div align="right">
