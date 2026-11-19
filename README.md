@@ -5,7 +5,7 @@
 ---
 
 #### `$ whoami`
-- **Fields** : full-stack, discord.py
+- **Fields** : 👍
 - **Links** : 🔗 [Project](https://imverycute.xyz) | 🔗 [Contact](https://t.me/nowipie)
 
 #### `$ stack`
